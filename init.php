@@ -10,7 +10,7 @@
                             ->usePackage('larakit/sf-angular')
                             ->usePackage('larakit/sf-slickcarousel')
                             ->setSourceDir('public')
-                            ->jsPackage('angular-slick.min.js')
+                            ->jsPackage('angular-slick.js')
 ;
 
 \Larakit\NgAdminlte\LkNg::moduleRegister('slickCarousel');
