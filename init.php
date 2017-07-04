@@ -8,6 +8,7 @@
 
 \Larakit\StaticFiles\Manager::package('larakit/sf-angular-slickcarousel')
                             ->usePackage('larakit/sf-angular')
+                            ->usePackage('larakit/sf-slickcarousel')
                             ->setSourceDir('public')
                             ->jsPackage('angular-slick.min.js')
 ;
