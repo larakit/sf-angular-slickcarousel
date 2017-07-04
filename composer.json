@@ -4,7 +4,8 @@
     "version": "1.0.0",
     "license": "MIT",
     "require":{
-        "larakit/ng-adminlte":"*"
+        "larakit/ng-adminlte":"*",
+        "larakit/sf-slickcarousel":"*"
     },
     "autoload": {
         "files": [
